@@ -2,7 +2,7 @@
 
 This is a simple to use Checker which is written in Python with aiohttp for the best results.
 
-### New Update 21/21/2020 : Increased Speed and Fixed Timeout Error
+### New Update 2022/06/25 : Increased Speed and Fixed Timeout Error
 
 You may consider combining my Tiktok Username Checker with my Random Character Generator for best Results: https://github.com/accomodate/random-character-generator
 
